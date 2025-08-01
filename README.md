@@ -13,10 +13,10 @@
 *MENTOR : NEELA SANTHOSH KUMAR
 
 
-# I Perform my task by using the help of GOOGLE,W3SCHOOL,GREEKSFORGREEKS. I had need to download the matplotlib by using the command "pip install requests matplotlib".
-# Also i had to create an API key on the 'OPEN WEATHER APP" "https://openweathermap.org/api". 
-#  I use a tkinter lib for the user interaction. 
-# We create a weather dashboard where we can take an input from the user as a city like "MUMBAI" and show the output dashboard in form of TEMPERATURE,HUMIDITY,PRESSURE,and WIND SPEED in (m/s)
+* I Perform my task by using the help of GOOGLE,W3SCHOOL,GREEKSFORGREEKS. I had need to download the matplotlib by using the command "pip install requests matplotlib".
+* Also i had to create an API key on the 'OPEN WEATHER APP" "https://openweathermap.org/api". 
+*  I use a tkinter lib for the user interaction. 
+* We create a weather dashboard where we can take an input from the user as a city like "MUMBAI" and show the output dashboard in form of TEMPERATURE,HUMIDITY,PRESSURE,and WIND SPEED in (m/s)
 
 #OUTPUT#
 
